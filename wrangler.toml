@@ -1,0 +1,7 @@
+[[routes]]
+pattern = "/hello"
+dest = "https://example.com"
+
+[[routes]]
+pattern = "/links"
+dest = "https://example.net"
