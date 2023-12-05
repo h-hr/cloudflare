@@ -1,3 +1,3 @@
-[[routes]]
-pattern = "/hello"
-dest = "https://example.com"
+kv_namespaces = [
+  { binding = "Link_Keys", id = "dd3e0683c86242e3a509a6df0f36215e" }
+]
